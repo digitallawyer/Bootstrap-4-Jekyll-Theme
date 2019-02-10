@@ -5,8 +5,8 @@ permalink:        /:title
 title:            Government Status
 tagline:          Is the government down today?
 description:      Tracking the status of governments around the world
-url:              www.governmentstat.us
-baseurl:          /governmentstat.us
+url:              
+baseurl:          /
 
 # Pagination number
 paginate:         10
