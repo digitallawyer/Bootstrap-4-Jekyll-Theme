@@ -2,11 +2,11 @@
 permalink:        /:title
 
 # Setup
-title:            TakaSoft
-tagline:          Making awesome software
-description:      Making awesome software
-url:              
-baseurl:          /Bootstrap-4-Jekyll-Theme
+title:            Government Status
+tagline:          Is the government down today?
+description:      Tracking the status of governments around the world
+url:              www.governmentstat.us
+baseurl:          /governmentstat.us
 
 # Pagination number
 paginate:         10
